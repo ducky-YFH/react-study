@@ -12,3 +12,5 @@ class H extends Component {
     }
   }
 }
+
+export default H;
